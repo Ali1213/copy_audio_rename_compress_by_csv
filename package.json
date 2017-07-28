@@ -1,0 +1,15 @@
+{
+  "name": "audio_copy_by_csv",
+  "version": "1.0.0",
+  "description": "for beli",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "aliyu",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^2.0.0",
+    "exceljs": "^0.5.0"
+  }
+}
